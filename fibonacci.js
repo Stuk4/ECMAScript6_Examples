@@ -1,3 +1,4 @@
+"use strict";
 var fibonacci = function*(){
 	
 	let [prev, curr]= [0,1]
